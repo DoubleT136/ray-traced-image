@@ -1,0 +1,4 @@
+https://piazza.com/class/jme0l06lytg2pz?cid=379
+
+- use area lights
+- high resolution/sampling
